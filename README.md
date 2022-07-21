@@ -1,2 +1,2 @@
 # BLANCO
-  A simple personalized bot (like Alexa) - Blanco using python.
+  A simple personalized bot (like Alexa) - Blanco using python and its libraries.
